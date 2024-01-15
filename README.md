@@ -1,2 +1,0 @@
-# Building-3Dportfolio
- 
